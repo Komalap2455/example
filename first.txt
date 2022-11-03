@@ -1,0 +1,5 @@
+1.study
+2.write
+3.eat
+4.code
+5.revise
