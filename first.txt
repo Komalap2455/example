@@ -3,3 +3,7 @@
 3.eat
 4.code
 5.revise
+6. validate 
+7.recode
+8.sleep
+9.dream 
